@@ -1,0 +1,61 @@
+*{
+
+  background-color:rgb(243,243,666);
+}
+
+h1{ 
+text-align: center;
+font-size: 50px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-decoration: underline;
+
+}
+
+
+
+.formulario{
+
+    margin: 20px;
+    font-size: 20px;
+    text-align: center;
+    font-family: monospace;
+
+    
+}
+
+
+#uno{
+    width: 80px;
+    height: 15px;
+}
+
+
+#dos{
+    width: 80px;
+    height: 15px;
+}
+
+#tres{
+    width: 80px;
+    height: 15px;
+}
+
+#valor{
+    font-size: 20px;
+}
+
+#Cotizador{
+
+font-size: 30px;
+font-family: monospace;
+border-radius: 5%;
+background-color:grey;
+
+}
+
+body{
+
+background-image: url(img/dolar.jpg);
+background-position: center;
+background-repeat: repeat;
+}
